@@ -1,2 +1,2 @@
-# user-directory
+# User Directory
 User list with post detail
