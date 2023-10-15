@@ -1,0 +1,9 @@
+.Post {
+    margin-top: 7px;
+    cursor: pointer;
+}
+
+.Post:hover {
+    background-color: var(--primary);
+    transition: background 250ms ease-in;
+}

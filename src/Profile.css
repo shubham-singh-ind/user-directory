@@ -1,0 +1,13 @@
+.UserInfo {
+    background: var(--primary);
+    padding: 2rem;
+    border-radius: 7px;
+}
+
+.Profile__header {
+    display: flex;
+}
+.Profile__header h2 {
+    position: relative;
+    left: 40%;
+}
